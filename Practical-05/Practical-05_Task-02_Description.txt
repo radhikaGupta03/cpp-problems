@@ -1,0 +1,1 @@
+Applied sizeof operator on all the operators and their variables.
