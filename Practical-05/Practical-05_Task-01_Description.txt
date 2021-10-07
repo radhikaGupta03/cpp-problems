@@ -1,0 +1,1 @@
+Initialised all primary data types, assigned their values and printed them all.
