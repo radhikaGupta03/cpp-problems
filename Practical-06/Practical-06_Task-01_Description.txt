@@ -1,0 +1,1 @@
+If we add integer with a string, compiler throws an error.

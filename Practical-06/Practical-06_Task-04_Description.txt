@@ -1,0 +1,1 @@
+String Compare: Checked if the strings are equal or not.

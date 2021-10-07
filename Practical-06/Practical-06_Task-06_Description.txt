@@ -1,0 +1,2 @@
+ Checked if string is mutable in C++ or not.
+They are mutable.
