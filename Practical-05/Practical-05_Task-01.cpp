@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main() { //[char, bool, short, int, long, float, double, long double, wide char]
+int main() { 
     char c = 'R';
     bool b = true;
     short s = 1;
