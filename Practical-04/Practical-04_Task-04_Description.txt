@@ -1,0 +1,2 @@
+Tried to access these methods for Mixed Values [Int, Float] and see how the compiler will react to it.
+But got some error.
