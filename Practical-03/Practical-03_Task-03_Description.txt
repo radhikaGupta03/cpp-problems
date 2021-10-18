@@ -1,0 +1,2 @@
+When I've inputted the string "Radhika" the output was only "R".
+It means there was loss of data. 

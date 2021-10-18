@@ -1,0 +1,2 @@
+When I've inputted the string "Radhika" the output was "Radhika".
+It means there was no loss of data because in this code I've used getline.
